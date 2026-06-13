@@ -6,6 +6,8 @@
 [![NLP Pipeline](https://img.shields.io/badge/NLP-Pipeline-00E5B5?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Statistical Engine](https://img.shields.io/badge/Stats-Poisson_Log--Likelihood-276DC3?style=for-the-badge&logo=r)](#)
 [![Frontend](https://img.shields.io/badge/UI-Cyber_Dark-0D1117?style=for-the-badge)](#)
+<br>
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-Enter_the_Lab-FF0000?style=for-the-badge)](https://utkarshbharadwaj.github.io/projects/cipherink.html)
 
 *Poisson Log-Likelihood • Bayesian Attribution • Multi-Author Analysis*
 
@@ -15,9 +17,9 @@
 
 ## 📌 System Overview
 
-> CipherInk is an advanced forensic stylometry platform for authorship verification. Powered by Bayesian techniques and a Poisson log-likelihood backend, it analyzes linguistic fingerprints across 70+ markers to deliver real-time, multi-author probability insights.
+> CipherInk is an advanced forensic stylometry platform for authorship verification. Powered by Bayesian techniques and a Poisson log likelihood backend, it analyzes linguistic fingerprints across 70+ markers to deliver real time, multi-author probability insights.
 
-Built for the **Far Away Zuup Hackathon**, CipherInk is an evolution in text forensics. Moving beyond basic plagiarism checkers, it extracts deep linguistic patterns specifically analyzing high frequency, subconscious filler words to build highly accurate statistical fingerprints of writers. The platform provides a computational defense against identity misrepresentation and unverified text generation.
+CipherInk is an evolution in text forensics. Moving beyond basic plagiarism checkers, it extracts deep linguistic patterns specifically analyzing high frequency, subconscious filler words to build highly accurate statistical fingerprints of writers. The platform provides a computational defense against identity misrepresentation and unverified text generation.
 
 ---
 
@@ -34,16 +36,14 @@ Built for the **Far Away Zuup Hackathon**, CipherInk is an evolution in text for
 
 ## 🖥️ Platform Interface
 
-*Note: Update the image paths below once you capture the new CipherInk UI screenshots.*
-
 ### Enter the Lab
 <div align="center">
-  <img src="images/landing_page.jpeg" alt="CipherInk Landing Page" width="800"/>
+  <img src="Screenshots/CipherInk_Landing_Page.jpg" alt="CipherInk Landing Page" width="800"/>
 </div>
 
 ### Manuscript Input & Scan Dashboard
 <div align="center">
-  <img src="images/Manuscript_Enter.jpeg" alt="Scan Dashboard" width="800"/>
+  <img src="Screenshots/Manuscript_input.jpg" alt="Scan Dashboard" width="800"/>
 </div>
 
 ---
